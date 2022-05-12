@@ -1,5 +1,5 @@
 <div align="center">  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asegh12"/>
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asegh12"/> -->
 
 
   ### ⚒Tech Stack
